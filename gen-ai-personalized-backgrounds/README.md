@@ -65,7 +65,7 @@ Since you’ll be working **locally** without access to GPU clusters, here are s
 
 ## Getting Started
 1. **Download the dataset**
-[Link Text](https://github.com/novibet-ai-hackathon/novibet-ai-hackathon/tree/main/gen-ai-personalized-backgrounds)
+[gen-ai-personalized-backgrounds-dataset.csv](https://github.com/novibet-ai-hackathon/novibet-ai-hackathon/tree/main/gen-ai-personalized-backgrounds)
 
 2. **Install Dependencies**
    ```bash
