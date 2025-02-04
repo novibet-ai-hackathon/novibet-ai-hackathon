@@ -20,7 +20,6 @@ The gaming industry faces significant challenges related to problem gambling, in
 
 - **Data Processing**: ETL pipelines for handling gaming data efficiently.  
 - **Machine Learning**: Supervised / Unsupervised learning models for risk detection.  
-- **Real-Time Processing**: Streaming analytics to identify issues as they arise.  
 - **Dashboard & Reporting**: Visualization tools to monitor player risk trends and alerts.  
 
 ## Dataset  
@@ -76,4 +75,3 @@ Contributions are welcome but not required. If you'd like to enhance the project
 - **Machine Learning Models**: Improved risk detection algorithms or feature engineering enhancements.  
 - **Data Analysis**: Insights derived from exploratory data analysis (EDA) to better understand player behaviors.  
 - **Visualizations**: Interactive dashboards to display risk scores and alert trends.  
-- **Real-Time Processing Pipelines**: Implementations of streaming analytics for live risk assessment. 
